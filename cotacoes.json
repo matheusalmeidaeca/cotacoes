@@ -1,0 +1,101 @@
+{
+ "updatedAt": "2026-10-19T23:58:39.037865+00:00",
+ "updatedAtMs": 1792454319037,
+ "quotes": {
+  "BBAS3": {
+   "price": 23.85,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "ITUB4": {
+   "price": 47.9,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "TAEE11": {
+   "price": 44.43,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "CPFE3": {
+   "price": 49.36,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "CMIG4": {
+   "price": 11.63,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "BBSE3": {
+   "price": 41.24,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "VBBR3": {
+   "price": 36.18,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "HGLG11": {
+   "price": 156.2,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "KNRI11": {
+   "price": 164.0,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "XPML11": {
+   "price": 105.68,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "VISC11": {
+   "price": 113.66,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "BTLG11": {
+   "price": 102.72,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "GGRC11": {
+   "price": 9.23,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "RBRP11": {
+   "price": 52.16,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "MXRF11": {
+   "price": 9.38,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "KNCR11": {
+   "price": 106.34,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "VGIR11": {
+   "price": 9.63,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "KNIP11": {
+   "price": 93.33,
+   "divMonthly": null,
+   "src": "b3"
+  },
+  "HGCR11": {
+   "price": 97.9,
+   "divMonthly": null,
+   "src": "b3"
+  }
+ }
+}
