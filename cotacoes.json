@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-10-20T03:48:21.037178+00:00",
- "updatedAtMs": 1792468101037,
+ "updatedAt": "2026-10-20T11:04:53.921885+00:00",
+ "updatedAtMs": 1792494293921,
  "quotes": {
   "BBAS3": {
-   "price": 23.86,
+   "price": 23.85,
    "divMonthly": null,
    "src": "b3"
   },
   "ITUB4": {
-   "price": 47.91,
+   "price": 47.9,
    "divMonthly": null,
    "src": "b3"
   },
   "TAEE11": {
-   "price": 44.44,
+   "price": 44.43,
    "divMonthly": null,
    "src": "b3"
   },
@@ -23,7 +23,7 @@
    "src": "b3"
   },
   "CMIG4": {
-   "price": 11.63,
+   "price": 11.62,
    "divMonthly": null,
    "src": "b3"
   },
@@ -38,17 +38,17 @@
    "src": "b3"
   },
   "HGLG11": {
-   "price": 156.19,
+   "price": 156.11,
    "divMonthly": null,
    "src": "b3"
   },
   "KNRI11": {
-   "price": 164.0,
+   "price": 163.69,
    "divMonthly": null,
    "src": "b3"
   },
   "XPML11": {
-   "price": 105.67,
+   "price": 105.75,
    "divMonthly": null,
    "src": "b3"
   },
@@ -58,7 +58,7 @@
    "src": "b3"
   },
   "BTLG11": {
-   "price": 102.72,
+   "price": 102.61,
    "divMonthly": null,
    "src": "b3"
   },
@@ -73,17 +73,17 @@
    "src": "b3"
   },
   "MXRF11": {
-   "price": 9.39,
+   "price": 9.38,
    "divMonthly": null,
    "src": "b3"
   },
   "KNCR11": {
-   "price": 106.34,
+   "price": 106.28,
    "divMonthly": null,
    "src": "b3"
   },
   "VGIR11": {
-   "price": 9.63,
+   "price": 9.64,
    "divMonthly": null,
    "src": "b3"
   },
