@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-10-20T11:04:53.921885+00:00",
- "updatedAtMs": 1792494293921,
+ "updatedAt": "2026-10-20T16:31:27.222735+00:00",
+ "updatedAtMs": 1792513887222,
  "quotes": {
   "BBAS3": {
-   "price": 23.85,
+   "price": 24.37,
    "divMonthly": null,
    "src": "b3"
   },
   "ITUB4": {
-   "price": 47.9,
+   "price": 49.26,
    "divMonthly": null,
    "src": "b3"
   },
   "TAEE11": {
-   "price": 44.43,
+   "price": 46.05,
    "divMonthly": null,
    "src": "b3"
   },
   "CPFE3": {
-   "price": 49.36,
+   "price": 50.85,
    "divMonthly": null,
    "src": "b3"
   },
   "CMIG4": {
-   "price": 11.62,
+   "price": 11.87,
    "divMonthly": null,
    "src": "b3"
   },
   "BBSE3": {
-   "price": 41.24,
+   "price": 42.2,
    "divMonthly": null,
    "src": "b3"
   },
   "VBBR3": {
-   "price": 36.18,
+   "price": 36.5,
    "divMonthly": null,
    "src": "b3"
   },
   "HGLG11": {
-   "price": 156.11,
+   "price": 156.01,
    "divMonthly": null,
    "src": "b3"
   },
   "KNRI11": {
-   "price": 163.69,
+   "price": 164.38,
    "divMonthly": null,
    "src": "b3"
   },
   "XPML11": {
-   "price": 105.75,
+   "price": 105.48,
    "divMonthly": null,
    "src": "b3"
   },
   "VISC11": {
-   "price": 113.78,
+   "price": 112.98,
    "divMonthly": null,
    "src": "b3"
   },
   "BTLG11": {
-   "price": 102.61,
+   "price": 103.94,
    "divMonthly": null,
    "src": "b3"
   },
   "GGRC11": {
-   "price": 9.23,
+   "price": 9.25,
    "divMonthly": null,
    "src": "b3"
   },
   "RBRP11": {
-   "price": 52.16,
+   "price": 52.58,
    "divMonthly": null,
    "src": "b3"
   },
   "MXRF11": {
-   "price": 9.38,
+   "price": 9.42,
    "divMonthly": null,
    "src": "b3"
   },
   "KNCR11": {
-   "price": 106.28,
+   "price": 105.96,
    "divMonthly": null,
    "src": "b3"
   },
   "VGIR11": {
-   "price": 9.64,
+   "price": 9.62,
    "divMonthly": null,
    "src": "b3"
   },
   "KNIP11": {
-   "price": 93.32,
+   "price": 93.36,
    "divMonthly": null,
    "src": "b3"
   },
   "HGCR11": {
-   "price": 98.05,
+   "price": 98.27,
    "divMonthly": null,
    "src": "b3"
   }
