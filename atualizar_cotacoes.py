@@ -124,9 +124,6 @@ def price_yahoo(t):
         return None
 
 
-PRICE_SOURCES = [("b3", price_b3), ("google", price_google)] + ([] if NO_GITHUB else [("yahoo", price_yahoo)])
-
-
 # ---------------------------------------------------------------- dividendos (total por cota em 12 meses)
 def div_b3(t):
     """Só ações (a B3 não tem fonte confirmada para FIIs)."""
@@ -171,7 +168,14 @@ def div_yahoo(t):
     return round(total, 4) if total > 0 else None
 
 
-def div_statusinvest(t):
+_si_cache = {}
+
+
+def si_info(t):
+    """Lê a página do ativo no StatusInvest uma vez: dividendos 12 meses e preço atual."""
+    if t in _si_cache:
+        return _si_cache[t]
+    out = {"total": None, "price": None}
     for path in (["fundos-imobiliarios", "acoes"] if is_fii(t) else ["acoes", "fundos-imobiliarios"]):
         page = get(f"https://statusinvest.com.br/{path}/{t.lower()}")
         if not page:
@@ -179,13 +183,27 @@ def div_statusinvest(t):
         text = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", page)))
         i = text.find("Dividend Yield")
         m = re.search(r"[Úú]ltimos 12 meses\s*(?:R\$)?\s*([\d.]+,\d+)", text[i:i + 700] if i >= 0 else text)
-        if m:
-            v = num(m.group(1))
-            if v and v > 0:
-                return v
-    return None
+        if m and num(m.group(1)) and num(m.group(1)) > 0:
+            out["total"] = num(m.group(1))
+        mp = re.search(r"Valor atual\s*R\$\s*([\d.]+,\d+)", text)
+        if mp and num(mp.group(1)) and num(mp.group(1)) > 0:
+            out["price"] = num(mp.group(1))
+        if out["total"] or out["price"]:
+            break
+    _si_cache[t] = out
+    return out
 
 
+def div_statusinvest(t):
+    return si_info(t)["total"]
+
+
+def price_statusinvest(t):
+    p = si_info(t)["price"]
+    return round(p, 2) if p else None
+
+
+PRICE_SOURCES = [("b3", price_b3), ("google", price_google)] + ([] if NO_GITHUB else [("yahoo", price_yahoo), ("statusinvest", price_statusinvest)])
 DIV_SOURCES = [("b3", div_b3)] + ([] if NO_GITHUB else [("yahoo", div_yahoo), ("statusinvest", div_statusinvest)])
 
 
@@ -205,6 +223,7 @@ def modo_dividendos():
                 src = name
                 break
             time.sleep(0.5)
+        info = _si_cache.get(t) or {}
         if total:
             data[t] = {"total12m": total, "divMonthly": round(total / 12, 4), "src": src, "atMs": int(now * 1000)}
             got += 1
@@ -212,6 +231,9 @@ def modo_dividendos():
         else:
             sem.append(t)
             print("sem dividendos agora:", t, "(mantendo o dado anterior)" if old else "")
+        if info.get("price"):  # preço lido junto (serve de reserva quando a B3 não tem cotação)
+            data.setdefault(t, {})["price"] = round(info["price"], 2)
+            data[t]["priceAtMs"] = int(now * 1000)
         time.sleep(0.6)
     save(arq, data)
     print(f"dividendos atualizados: {got} | sem fonte: {len(sem)} {sem if sem else ''}")
@@ -229,6 +251,12 @@ def modo_precos():
             if price:
                 src = name
                 break
+        if not price:
+            for d in (div_c, div_s):
+                p = (d.get(t) or {}).get("price")
+                if p:
+                    price, src = p, "statusinvest(celular)"
+                    break
         if price:
             ok += 1
         cands = [d[t] for d in (div_s, div_c) if (d.get(t) or {}).get("divMonthly")]
