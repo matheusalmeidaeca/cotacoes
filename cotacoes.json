@@ -1,101 +1,120 @@
 {
- "updatedAt": "2026-10-21T02:08:12.820350+00:00",
- "updatedAtMs": 1792548492820,
+ "updatedAt": "2026-10-21T02:15:46.732646+00:00",
+ "updatedAtMs": 1792548946732,
  "quotes": {
   "BBAS3": {
    "price": 24.23,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "ITUB4": {
    "price": 48.86,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "TAEE11": {
    "price": 45.74,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "CPFE3": {
    "price": 49.84,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "CMIG4": {
    "price": 11.83,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "BBSE3": {
    "price": 42.49,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "VBBR3": {
    "price": 36.59,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "HGLG11": {
    "price": 156.34,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "KNRI11": {
    "price": 164.29,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "XPML11": {
    "price": 106.0,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "VISC11": {
    "price": 113.5,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "BTLG11": {
    "price": 104.8,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "GGRC11": {
    "price": 9.27,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "RBRP11": {
    "price": 52.7,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "MXRF11": {
    "price": 9.46,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "KNCR11": {
    "price": 106.0,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "VGIR11": {
    "price": 9.61,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "KNIP11": {
    "price": 93.14,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   },
   "HGCR11": {
    "price": 98.88,
+   "src": "b3",
    "divMonthly": null,
-   "src": "b3"
+   "divAtMs": null
   }
  }
 }
