@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-21T21:20:17.157607+00:00",
- "updatedAtMs": 1792617617157,
+ "updatedAt": "2026-10-21T23:42:54.843400+00:00",
+ "updatedAtMs": 1792626174843,
  "quotes": {
   "BBAS3": {
    "price": 24.08,
@@ -39,7 +39,7 @@
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 36.75,
+   "price": 36.73,
    "src": "b3",
    "divMonthly": 0.1648,
    "divSrc": "b3"
@@ -57,7 +57,7 @@
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 104.99,
+   "price": 105.0,
    "src": "b3",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
@@ -105,7 +105,7 @@
    "divSrc": "statusinvest"
   },
   "VGIR11": {
-   "price": 9.54,
+   "price": 9.55,
    "src": "b3",
    "divMonthly": 0.1258,
    "divSrc": "statusinvest"
