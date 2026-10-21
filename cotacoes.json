@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-21T02:37:30.787534+00:00",
- "updatedAtMs": 1792550250787,
+ "updatedAt": "2026-10-21T02:56:01.097810+00:00",
+ "updatedAtMs": 1792551361097,
  "quotes": {
   "BBAS3": {
    "price": 24.23,
@@ -96,6 +96,12 @@
    "price": 106.0,
    "src": "b3",
    "divMonthly": 1.16,
+   "divSrc": "statusinvest"
+  },
+  "IRDM11": {
+   "price": 58.31,
+   "src": "statusinvest(celular)",
+   "divMonthly": 0.1042,
    "divSrc": "statusinvest"
   },
   "VGIR11": {
