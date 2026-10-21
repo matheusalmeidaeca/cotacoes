@@ -11,9 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 atualizar_cotacoes.py
+      - run: python3 atualizar_cotacoes.py dividendos
+        continue-on-error: true
+      - run: python3 atualizar_cotacoes.py precos
       - run: |
           git config user.name "cotacoes-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add cotacoes.json
-          git diff --staged --quiet || (git commit -m "cotações" && git push)
+          git add cotacoes.json div_servidor.json
+          git diff --staged --quiet || (git commit -m "cotações" && git pull --rebase -X theirs && git push)
