@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-22T03:35:40.469058+00:00",
- "updatedAtMs": 1792640140469,
+ "updatedAt": "2026-10-22T11:17:18.584260+00:00",
+ "updatedAtMs": 1792667838584,
  "quotes": {
   "BBAS3": {
    "price": 24.08,
@@ -57,7 +57,7 @@
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 104.99,
+   "price": 105.0,
    "src": "b3",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
