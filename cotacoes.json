@@ -1,27 +1,27 @@
 {
- "updatedAt": "2026-10-23T20:17:05.366602+00:00",
- "updatedAtMs": 1792786625366,
+ "updatedAt": "2026-10-23T21:04:56.067314+00:00",
+ "updatedAtMs": 1792789496067,
  "quotes": {
   "BBAS3": {
-   "price": 24.85,
+   "price": 24.72,
    "src": "b3",
    "divMonthly": 0.0575,
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 48.54,
+   "price": 48.3,
    "src": "b3",
    "divMonthly": 0.2609,
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 44.88,
+   "price": 44.75,
    "src": "b3",
    "divMonthly": 0.4176,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 49.91,
+   "price": 49.79,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
@@ -33,43 +33,43 @@
    "divSrc": "b3"
   },
   "BBSE3": {
-   "price": 43.55,
+   "price": 43.68,
    "src": "b3",
    "divMonthly": 0.3825,
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 35.9,
+   "price": 35.82,
    "src": "b3",
    "divMonthly": 0.1648,
    "divSrc": "b3"
   },
   "HGLG11": {
-   "price": 159.88,
+   "price": 159.66,
    "src": "b3",
    "divMonthly": 1.1175,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 162.49,
+   "price": 162.3,
    "src": "b3",
    "divMonthly": 1.1008,
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 105.0,
+   "price": 104.61,
    "src": "b3",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 114.18,
+   "price": 114.2,
    "src": "b3",
    "divMonthly": 0.8325,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 105.0,
+   "price": 104.8,
    "src": "b3",
    "divMonthly": 0.8033,
    "divSrc": "statusinvest"
@@ -87,13 +87,13 @@
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 9.45,
+   "price": 9.44,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 105.95,
+   "price": 105.55,
    "src": "b3",
    "divMonthly": 1.16,
    "divSrc": "statusinvest"
@@ -111,7 +111,7 @@
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 93.27,
+   "price": 93.2,
    "src": "b3",
    "divMonthly": 0.8425,
    "divSrc": "statusinvest"
