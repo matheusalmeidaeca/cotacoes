@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-26T22:22:28.634734+00:00",
- "updatedAtMs": 1793053348634,
+ "updatedAt": "2026-10-26T22:54:15.936291+00:00",
+ "updatedAtMs": 1793055255936,
  "quotes": {
   "BBAS3": {
    "price": 17.97,
@@ -9,37 +9,37 @@
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 41.54,
+   "price": 41.94,
    "src": "b3",
    "divMonthly": 0.2609,
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 40.35,
+   "price": 40.36,
    "src": "b3",
    "divMonthly": 0.4176,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 42.86,
+   "price": 42.87,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 10.33,
+   "price": 10.4,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
   },
   "BBSE3": {
-   "price": 43.06,
+   "price": 43.18,
    "src": "b3",
    "divMonthly": 0.3825,
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 32.18,
+   "price": 32.08,
    "src": "b3",
    "divMonthly": 0.1648,
    "divSrc": "b3"
@@ -75,19 +75,19 @@
    "divSrc": "statusinvest"
   },
   "GGRC11": {
-   "price": 8.82,
+   "price": 8.85,
    "src": "b3",
    "divMonthly": 0.1,
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 47.0,
+   "price": 47.34,
    "src": "b3",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 9.12,
+   "price": 9.06,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
