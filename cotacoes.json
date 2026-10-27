@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-26T22:54:15.936291+00:00",
- "updatedAtMs": 1793055255936,
+ "updatedAt": "2026-10-27T03:59:17.470121+00:00",
+ "updatedAtMs": 1793073557470,
  "quotes": {
   "BBAS3": {
    "price": 17.97,
@@ -15,13 +15,13 @@
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 40.36,
+   "price": 40.5,
    "src": "b3",
    "divMonthly": 0.4176,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 42.87,
+   "price": 42.86,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
@@ -75,7 +75,7 @@
    "divSrc": "statusinvest"
   },
   "GGRC11": {
-   "price": 8.85,
+   "price": 8.81,
    "src": "b3",
    "divMonthly": 0.1,
    "divSrc": "statusinvest"
@@ -87,13 +87,13 @@
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 9.06,
+   "price": 9.12,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 104.37,
+   "price": 104.4,
    "src": "b3",
    "divMonthly": 1.16,
    "divSrc": "statusinvest"
