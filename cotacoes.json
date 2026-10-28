@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-28T01:26:17.016919+00:00",
- "updatedAtMs": 1793150777016,
+ "updatedAt": "2026-10-28T04:23:31.978367+00:00",
+ "updatedAtMs": 1793161411978,
  "quotes": {
   "BBAS3": {
    "price": 17.42,
@@ -63,13 +63,13 @@
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 101.13,
+   "price": 102.82,
    "src": "b3",
    "divMonthly": 0.8325,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 98.22,
+   "price": 98.84,
    "src": "b3",
    "divMonthly": 0.8033,
    "divSrc": "statusinvest"
@@ -81,13 +81,13 @@
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 45.67,
+   "price": 45.06,
    "src": "b3",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 9.0,
+   "price": 9.03,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
@@ -111,7 +111,7 @@
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 87.97,
+   "price": 87.94,
    "src": "b3",
    "divMonthly": 0.8425,
    "divSrc": "statusinvest"
