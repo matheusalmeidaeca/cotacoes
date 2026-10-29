@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-29T04:42:27.475600+00:00",
- "updatedAtMs": 1793248947475,
+ "updatedAt": "2026-10-29T12:25:27.209049+00:00",
+ "updatedAtMs": 1793276727209,
  "quotes": {
   "BBAS3": {
-   "price": 16.83,
+   "price": 16.86,
    "src": "b3",
    "divMonthly": 0.0575,
    "divSrc": "b3"
@@ -15,19 +15,19 @@
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 40.08,
+   "price": 40.19,
    "src": "b3",
    "divMonthly": 0.4176,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 43.04,
+   "price": 43.21,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 10.2,
+   "price": 10.16,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
@@ -45,13 +45,13 @@
    "divSrc": "b3"
   },
   "HGLG11": {
-   "price": 147.7,
+   "price": 147.9,
    "src": "b3",
    "divMonthly": 1.1175,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 148.52,
+   "price": 150.0,
    "src": "b3",
    "divMonthly": 1.1008,
    "divSrc": "statusinvest"
@@ -63,7 +63,7 @@
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 99.99,
+   "price": 100.1,
    "src": "b3",
    "divMonthly": 0.8325,
    "divSrc": "statusinvest"
@@ -75,25 +75,25 @@
    "divSrc": "statusinvest"
   },
   "GGRC11": {
-   "price": 8.56,
+   "price": 8.52,
    "src": "b3",
    "divMonthly": 0.1,
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 43.0,
+   "price": 45.5,
    "src": "b3",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 8.98,
+   "price": 9.0,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 104.31,
+   "price": 104.49,
    "src": "b3",
    "divMonthly": 1.16,
    "divSrc": "statusinvest"
@@ -105,13 +105,13 @@
    "divSrc": "statusinvest"
   },
   "VGIR11": {
-   "price": 9.09,
+   "price": 9.11,
    "src": "b3",
    "divMonthly": 0.1258,
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 87.24,
+   "price": 86.9,
    "src": "b3",
    "divMonthly": 0.8425,
    "divSrc": "statusinvest"
