@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T04:41:55.166334+00:00",
- "updatedAtMs": 1793335315166,
+ "updatedAt": "2026-10-30T12:16:23.054572+00:00",
+ "updatedAtMs": 1793362583054,
  "quotes": {
   "BBAS3": {
    "price": 16.47,
@@ -9,7 +9,7 @@
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 39.75,
+   "price": 39.78,
    "src": "b3",
    "divMonthly": 0.2609,
    "divSrc": "b3"
@@ -21,13 +21,13 @@
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 42.46,
+   "price": 42.34,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 10.15,
+   "price": 10.11,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
@@ -81,7 +81,7 @@
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 42.85,
+   "price": 42.86,
    "src": "b3",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
@@ -117,7 +117,7 @@
    "divSrc": "statusinvest"
   },
   "HGCR11": {
-   "price": 92.57,
+   "price": 92.69,
    "src": "b3",
    "divMonthly": 0.975,
    "divSrc": "statusinvest"
