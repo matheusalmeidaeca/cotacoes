@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T21:59:11.158914+00:00",
- "updatedAtMs": 1793397551158,
+ "updatedAt": "2026-10-30T22:12:14.261315+00:00",
+ "updatedAtMs": 1793398334261,
  "quotes": {
   "BBAS3": {
    "price": 16.45,
@@ -45,56 +45,56 @@
    "divSrc": "b3"
   },
   "HGLG11": {
-   "price": 149.47,
-   "src": "b3",
+   "price": 156.3,
+   "src": "statusinvest(celular)",
    "divMonthly": 1.1175,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 150.5,
-   "src": "b3",
+   "price": 164.01,
+   "src": "statusinvest(celular)",
    "divMonthly": 1.1008,
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 96.8,
-   "src": "b3",
+   "price": 105.99,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 99.4,
-   "src": "b3",
+   "price": 113.5,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.8325,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 98.1,
-   "src": "b3",
+   "price": 104.8,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.8033,
    "divSrc": "statusinvest"
   },
   "GGRC11": {
-   "price": 8.49,
-   "src": "b3",
+   "price": 9.25,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.1,
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 43.59,
-   "src": "b3",
+   "price": 52.5,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 8.9,
-   "src": "b3",
+   "price": 9.46,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 104.91,
-   "src": "b3",
+   "price": 106.0,
+   "src": "statusinvest(celular)",
    "divMonthly": 1.16,
    "divSrc": "statusinvest"
   },
@@ -105,20 +105,20 @@
    "divSrc": "statusinvest"
   },
   "VGIR11": {
-   "price": 8.92,
-   "src": "b3",
+   "price": 9.62,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.1258,
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 85.3,
-   "src": "b3",
+   "price": 93.46,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.8425,
    "divSrc": "statusinvest"
   },
   "HGCR11": {
-   "price": 92.98,
-   "src": "b3",
+   "price": 98.87,
+   "src": "statusinvest(celular)",
    "divMonthly": 0.975,
    "divSrc": "statusinvest"
   }
