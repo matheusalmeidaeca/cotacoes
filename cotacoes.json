@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-31T04:26:14.954178+00:00",
- "updatedAtMs": 1793420774954,
+ "updatedAt": "2026-10-31T11:47:32.409370+00:00",
+ "updatedAtMs": 1793447252409,
  "quotes": {
   "BBAS3": {
    "price": 16.45,
@@ -11,7 +11,7 @@
   "ITUB4": {
    "price": 38.7,
    "src": "b3",
-   "divMonthly": 0.2609,
+   "divMonthly": 0.2624,
    "divSrc": "b3"
   },
   "TAEE11": {
