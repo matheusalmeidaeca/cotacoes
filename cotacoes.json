@@ -1,99 +1,99 @@
 {
- "updatedAt": "2026-11-16T15:00:01.796991+00:00",
- "updatedAtMs": 1794841201796,
+ "updatedAt": "2026-11-16T21:53:32.543243+00:00",
+ "updatedAtMs": 1794866012543,
  "quotes": {
   "BBAS3": {
-   "price": 14.62,
+   "price": 14.95,
    "src": "b3",
    "divMonthly": 0.0477,
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 41.53,
+   "price": 41.3,
    "src": "b3",
    "divMonthly": 0.2624,
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 41.75,
+   "price": 41.99,
    "src": "b3",
    "divMonthly": 0.2872,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 44.21,
+   "price": 44.65,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 10.87,
+   "price": 10.95,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
   },
   "BBSE3": {
-   "price": 37.18,
+   "price": 37.2,
    "src": "b3",
    "divMonthly": 0.3825,
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 30.39,
+   "price": 30.7,
    "src": "b3",
    "divMonthly": 0.1648,
    "divSrc": "b3"
   },
   "HGLG11": {
-   "price": 144.0,
+   "price": 143.12,
    "src": "b3",
    "divMonthly": 1.1175,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 149.63,
+   "price": 147.5,
    "src": "b3",
    "divMonthly": 1.1008,
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 90.32,
+   "price": 89.7,
    "src": "b3",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 97.28,
+   "price": 97.04,
    "src": "b3",
    "divMonthly": 0.8325,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 97.58,
+   "price": 97.21,
    "src": "b3",
    "divMonthly": 0.8033,
    "divSrc": "statusinvest"
   },
   "GGRC11": {
-   "price": 8.23,
+   "price": 8.2,
    "src": "b3",
    "divMonthly": 0.1,
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 43.66,
+   "price": 43.83,
    "src": "b3",
    "divMonthly": 0.3875,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
-   "price": 8.69,
+   "price": 8.58,
    "src": "b3",
    "divMonthly": 0.0996,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 104.02,
+   "price": 103.01,
    "src": "b3",
    "divMonthly": 1.16,
    "divSrc": "statusinvest"
@@ -105,19 +105,19 @@
    "divSrc": "statusinvest"
   },
   "VGIR11": {
-   "price": 8.25,
+   "price": 8.14,
    "src": "b3",
    "divMonthly": 0.1258,
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 87.26,
+   "price": 85.86,
    "src": "b3",
    "divMonthly": 0.8425,
    "divSrc": "statusinvest"
   },
   "HGCR11": {
-   "price": 85.61,
+   "price": 86.27,
    "src": "b3",
    "divMonthly": 0.975,
    "divSrc": "statusinvest"
