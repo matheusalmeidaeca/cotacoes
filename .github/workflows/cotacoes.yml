@@ -17,5 +17,5 @@ jobs:
       - run: |
           git config user.name "cotacoes-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add cotacoes.json div_servidor.json
+          git add cotacoes.json div_servidor.json hist_precos.json
           git diff --staged --quiet || (git commit -m "cotações" && git pull --rebase -X theirs && git push)
