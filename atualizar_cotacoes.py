@@ -15,7 +15,16 @@ mas aceitam o seu celular. A B3 aceita os dois.
 import base64, html, json, os, re, sys, time, urllib.request, urllib.error
 from datetime import date, datetime, timedelta, timezone
 
-TICKERS = ["BBAS3", "ITUB4", "TAEE11", "CPFE3", "CMIG4", "BBSE3", "VBBR3", "HGLG11", "KNRI11", "XPML11", "VISC11", "BTLG11", "GGRC11", "RBRP11", "MXRF11", "KNCR11", "IRDM11", "VGIR11", "KNIP11", "HGCR11"]
+TICKERS = [
+    "BBAS3", "ITUB4", "TAEE11", "CPFE3", "CMIG4", "BBSE3", "VBBR3", "HGLG11",
+    "KNRI11", "XPML11", "VISC11", "BTLG11", "GGRC11", "RBRP11", "MXRF11", "KNCR11",
+    "IRDM11", "VGIR11", "KNIP11", "HGCR11", "WEGE3", "PSSA3", "EGIE3", "ISAE4",
+    "TRPL4", "ALUP11", "CPLE6", "EQTL3", "SBSP3", "SAPR11", "CSMG3", "VIVT3",
+    "TIMS3", "CXSE3", "BBDC4", "BPAC11", "ITSA4", "B3SA3", "RADL3", "PETR4",
+    "VALE3", "ABEV3", "KLBN11", "SUZB3", "RENT3", "XPLG11", "LVBI11", "BRCO11",
+    "HGRU11", "TRXF11", "ALZR11", "HSML11", "MALL11", "HGBS11", "PVBI11", "JSRE11",
+    "HFOF11", "RBRR11", "CPTS11", "RECR11", "MCCI11", "SNCI11", "XPCI11", "VRTA11",
+]
 UNITS_ACAO = {"TAEE11", "KLBN11", "SAPR11", "ALUP11", "BPAC11"}  # terminam em 11, mas são ações (units)
 UA = "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36"
 NO_GITHUB = os.environ.get("GITHUB_ACTIONS") == "true"
