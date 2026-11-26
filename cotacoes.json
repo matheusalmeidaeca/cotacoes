@@ -1,45 +1,45 @@
 {
- "updatedAt": "2026-11-26T21:18:31.258763+00:00",
- "updatedAtMs": 1795727911258,
+ "updatedAt": "2026-11-26T22:30:56.261896+00:00",
+ "updatedAtMs": 1795732256261,
  "quotes": {
   "BBAS3": {
-   "price": 16.12,
+   "price": 16.54,
    "src": "b3",
    "divMonthly": 0.0477,
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 42.3,
+   "price": 42.56,
    "src": "b3",
    "divMonthly": 0.2624,
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 41.53,
+   "price": 41.46,
    "src": "b3",
    "divMonthly": 0.2872,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 45.47,
+   "price": 45.7,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 11.28,
+   "price": 11.29,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
   },
   "BBSE3": {
-   "price": 37.6,
+   "price": 37.56,
    "src": "b3",
    "divMonthly": 0.3825,
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 34.77,
+   "price": 35.2,
    "src": "b3",
    "divMonthly": 0.1012,
    "divSrc": "b3"
@@ -47,31 +47,31 @@
   "HGLG11": {
    "price": 144.97,
    "src": "b3",
-   "divMonthly": 1.1175,
+   "divMonthly": 1.1233,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 148.48,
+   "price": 150.0,
    "src": "b3",
-   "divMonthly": 1.1008,
+   "divMonthly": 1.1092,
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 85.17,
+   "price": 85.5,
    "src": "b3",
-   "divMonthly": 0.92,
+   "divMonthly": 0.91,
    "divSrc": "statusinvest"
   },
   "VISC11": {
    "price": 97.48,
    "src": "b3",
-   "divMonthly": 0.8325,
+   "divMonthly": 0.835,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 96.45,
+   "price": 96.5,
    "src": "b3",
-   "divMonthly": 0.8033,
+   "divMonthly": 0.805,
    "divSrc": "statusinvest"
   },
   "GGRC11": {
@@ -83,19 +83,19 @@
   "RBRP11": {
    "price": 45.89,
    "src": "b3",
-   "divMonthly": 0.3875,
+   "divMonthly": 0.3833,
    "divSrc": "statusinvest"
   },
   "MXRF11": {
    "price": 8.69,
    "src": "b3",
-   "divMonthly": 0.0996,
+   "divMonthly": 0.0992,
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 103.49,
+   "price": 103.75,
    "src": "b3",
-   "divMonthly": 1.16,
+   "divMonthly": 1.1408,
    "divSrc": "statusinvest"
   },
   "IRDM11": {
@@ -107,19 +107,277 @@
   "VGIR11": {
    "price": 8.37,
    "src": "b3",
-   "divMonthly": 0.1258,
+   "divMonthly": 0.1249,
    "divSrc": "statusinvest"
   },
   "KNIP11": {
    "price": 87.92,
    "src": "b3",
-   "divMonthly": 0.8425,
+   "divMonthly": 0.85,
    "divSrc": "statusinvest"
   },
   "HGCR11": {
    "price": 87.66,
    "src": "b3",
    "divMonthly": 0.975,
+   "divSrc": "statusinvest"
+  },
+  "WEGE3": {
+   "price": 51.36,
+   "src": "b3",
+   "divMonthly": 0.1669,
+   "divSrc": "b3"
+  },
+  "PSSA3": {
+   "price": 43.06,
+   "src": "b3",
+   "divMonthly": 0.25,
+   "divSrc": "b3"
+  },
+  "EGIE3": {
+   "price": 26.56,
+   "src": "b3",
+   "divMonthly": 0.0933,
+   "divSrc": "b3"
+  },
+  "ISAE4": {
+   "price": 27.14,
+   "src": "b3",
+   "divMonthly": 0.1137,
+   "divSrc": "b3"
+  },
+  "ALUP11": {
+   "price": 35.0,
+   "src": "b3",
+   "divMonthly": 0.1083,
+   "divSrc": "b3"
+  },
+  "CPLE6": {
+   "price": 14.22,
+   "src": "statusinvest(celular)",
+   "divMonthly": null,
+   "divSrc": null
+  },
+  "EQTL3": {
+   "price": 37.73,
+   "src": "b3",
+   "divMonthly": 0.0111,
+   "divSrc": "b3"
+  },
+  "SBSP3": {
+   "price": 30.35,
+   "src": "b3",
+   "divMonthly": 0.2898,
+   "divSrc": "b3"
+  },
+  "SAPR11": {
+   "price": 35.97,
+   "src": "b3",
+   "divMonthly": 0.0639,
+   "divSrc": "b3"
+  },
+  "CSMG3": {
+   "price": 63.41,
+   "src": "b3",
+   "divMonthly": 0.1661,
+   "divSrc": "b3"
+  },
+  "VIVT3": {
+   "price": 36.05,
+   "src": "b3",
+   "divMonthly": 0.2052,
+   "divSrc": "b3"
+  },
+  "TIMS3": {
+   "price": 22.99,
+   "src": "b3",
+   "divMonthly": 0.1227,
+   "divSrc": "b3"
+  },
+  "CXSE3": {
+   "price": 21.07,
+   "src": "b3",
+   "divMonthly": 0.0567,
+   "divSrc": "b3"
+  },
+  "BBDC4": {
+   "price": 15.83,
+   "src": "b3",
+   "divMonthly": 0.1314,
+   "divSrc": "b3"
+  },
+  "BPAC11": {
+   "price": 59.04,
+   "src": "b3",
+   "divMonthly": 0.1972,
+   "divSrc": "b3"
+  },
+  "ITSA4": {
+   "price": 13.99,
+   "src": "b3",
+   "divMonthly": 0.0934,
+   "divSrc": "b3"
+  },
+  "B3SA3": {
+   "price": 16.16,
+   "src": "b3",
+   "divMonthly": 0.0752,
+   "divSrc": "b3"
+  },
+  "RADL3": {
+   "price": 17.46,
+   "src": "b3",
+   "divMonthly": 0.0378,
+   "divSrc": "b3"
+  },
+  "PETR4": {
+   "price": 43.19,
+   "src": "b3",
+   "divMonthly": 0.3046,
+   "divSrc": "b3"
+  },
+  "VALE3": {
+   "price": 58.73,
+   "src": "b3",
+   "divMonthly": 0.4677,
+   "divSrc": "b3"
+  },
+  "ABEV3": {
+   "price": 16.43,
+   "src": "b3",
+   "divMonthly": 0.1042,
+   "divSrc": "statusinvest"
+  },
+  "KLBN11": {
+   "price": 16.95,
+   "src": "b3",
+   "divMonthly": 0.076,
+   "divSrc": "statusinvest"
+  },
+  "SUZB3": {
+   "price": 54.87,
+   "src": "b3",
+   "divMonthly": 0.0934,
+   "divSrc": "b3"
+  },
+  "RENT3": {
+   "price": 33.77,
+   "src": "b3",
+   "divMonthly": 0.1774,
+   "divSrc": "b3"
+  },
+  "XPLG11": {
+   "price": 90.8,
+   "src": "b3",
+   "divMonthly": 0.82,
+   "divSrc": "statusinvest"
+  },
+  "LVBI11": {
+   "price": 102.51,
+   "src": "b3",
+   "divMonthly": 0.7625,
+   "divSrc": "statusinvest"
+  },
+  "BRCO11": {
+   "price": 106.51,
+   "src": "b3",
+   "divMonthly": 0.92,
+   "divSrc": "statusinvest"
+  },
+  "HGRU11": {
+   "price": 115.88,
+   "src": "b3",
+   "divMonthly": 0.9917,
+   "divSrc": "statusinvest"
+  },
+  "TRXF11": {
+   "price": 54.36,
+   "src": "b3",
+   "divMonthly": 0.9833,
+   "divSrc": "statusinvest"
+  },
+  "ALZR11": {
+   "price": 9.58,
+   "src": "b3",
+   "divMonthly": 0.0839,
+   "divSrc": "statusinvest"
+  },
+  "HSML11": {
+   "price": 80.0,
+   "src": "b3",
+   "divMonthly": 0.7258,
+   "divSrc": "statusinvest"
+  },
+  "MALL11": {
+   "price": 99.7,
+   "src": "statusinvest(celular)",
+   "divMonthly": 0.9767,
+   "divSrc": "statusinvest"
+  },
+  "HGBS11": {
+   "price": 16.85,
+   "src": "b3",
+   "divMonthly": 0.1658,
+   "divSrc": "statusinvest"
+  },
+  "PVBI11": {
+   "price": 64.17,
+   "src": "b3",
+   "divMonthly": 0.4092,
+   "divSrc": "statusinvest"
+  },
+  "JSRE11": {
+   "price": 57.8,
+   "src": "b3",
+   "divMonthly": 0.4867,
+   "divSrc": "statusinvest"
+  },
+  "HFOF11": {
+   "price": 5.73,
+   "src": "b3",
+   "divMonthly": 0.0593,
+   "divSrc": "statusinvest"
+  },
+  "RBRR11": {
+   "price": 63.0,
+   "src": "statusinvest(celular)",
+   "divMonthly": 0.8125,
+   "divSrc": "statusinvest"
+  },
+  "CPTS11": {
+   "price": 6.77,
+   "src": "b3",
+   "divMonthly": 0.09,
+   "divSrc": "statusinvest"
+  },
+  "RECR11": {
+   "price": 68.15,
+   "src": "b3",
+   "divMonthly": 0.89,
+   "divSrc": "statusinvest"
+  },
+  "MCCI11": {
+   "price": 90.42,
+   "src": "b3",
+   "divMonthly": 1.0,
+   "divSrc": "statusinvest"
+  },
+  "SNCI11": {
+   "price": 78.45,
+   "src": "b3",
+   "divMonthly": 1.0,
+   "divSrc": "statusinvest"
+  },
+  "XPCI11": {
+   "price": 75.0,
+   "src": "b3",
+   "divMonthly": 0.8842,
+   "divSrc": "statusinvest"
+  },
+  "VRTA11": {
+   "price": 65.36,
+   "src": "b3",
+   "divMonthly": 0.85,
    "divSrc": "statusinvest"
   }
  }
