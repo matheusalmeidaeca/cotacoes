@@ -1,75 +1,75 @@
 {
- "updatedAt": "2026-11-27T20:46:42.422677+00:00",
- "updatedAtMs": 1795812402422,
+ "updatedAt": "2026-11-27T21:00:35.215698+00:00",
+ "updatedAtMs": 1795813235215,
  "quotes": {
   "BBAS3": {
-   "price": 16.84,
+   "price": 16.86,
    "src": "b3",
    "divMonthly": 0.0477,
    "divSrc": "b3"
   },
   "ITUB4": {
-   "price": 43.01,
+   "price": 43.04,
    "src": "b3",
    "divMonthly": 0.2624,
    "divSrc": "b3"
   },
   "TAEE11": {
-   "price": 41.31,
+   "price": 41.32,
    "src": "b3",
    "divMonthly": 0.2872,
    "divSrc": "b3"
   },
   "CPFE3": {
-   "price": 45.61,
+   "price": 45.51,
    "src": "b3",
    "divMonthly": 0.311,
    "divSrc": "b3"
   },
   "CMIG4": {
-   "price": 11.37,
+   "price": 11.35,
    "src": "b3",
    "divMonthly": 0.0949,
    "divSrc": "b3"
   },
   "BBSE3": {
-   "price": 37.29,
+   "price": 37.28,
    "src": "b3",
    "divMonthly": 0.3825,
    "divSrc": "b3"
   },
   "VBBR3": {
-   "price": 34.2,
+   "price": 34.21,
    "src": "b3",
    "divMonthly": 0.1012,
    "divSrc": "b3"
   },
   "HGLG11": {
-   "price": 146.94,
+   "price": 146.92,
    "src": "b3",
    "divMonthly": 1.1233,
    "divSrc": "statusinvest"
   },
   "KNRI11": {
-   "price": 151.41,
+   "price": 151.55,
    "src": "b3",
    "divMonthly": 1.1092,
    "divSrc": "statusinvest"
   },
   "XPML11": {
-   "price": 89.62,
+   "price": 90.76,
    "src": "b3",
    "divMonthly": 0.91,
    "divSrc": "statusinvest"
   },
   "VISC11": {
-   "price": 102.87,
+   "price": 103.15,
    "src": "b3",
    "divMonthly": 0.835,
    "divSrc": "statusinvest"
   },
   "BTLG11": {
-   "price": 97.87,
+   "price": 98.03,
    "src": "b3",
    "divMonthly": 0.805,
    "divSrc": "statusinvest"
@@ -81,7 +81,7 @@
    "divSrc": "statusinvest"
   },
   "RBRP11": {
-   "price": 48.01,
+   "price": 48.19,
    "src": "b3",
    "divMonthly": 0.3833,
    "divSrc": "statusinvest"
@@ -93,7 +93,7 @@
    "divSrc": "statusinvest"
   },
   "KNCR11": {
-   "price": 103.96,
+   "price": 104.0,
    "src": "b3",
    "divMonthly": 1.1408,
    "divSrc": "statusinvest"
@@ -105,43 +105,43 @@
    "divSrc": "statusinvest"
   },
   "VGIR11": {
-   "price": 8.63,
+   "price": 8.62,
    "src": "b3",
    "divMonthly": 0.1249,
    "divSrc": "statusinvest"
   },
   "KNIP11": {
-   "price": 88.76,
+   "price": 88.78,
    "src": "b3",
    "divMonthly": 0.85,
    "divSrc": "statusinvest"
   },
   "HGCR11": {
-   "price": 89.66,
+   "price": 89.5,
    "src": "b3",
    "divMonthly": 0.975,
    "divSrc": "statusinvest"
   },
   "WEGE3": {
-   "price": 50.05,
+   "price": 50.08,
    "src": "b3",
    "divMonthly": 0.1669,
    "divSrc": "b3"
   },
   "PSSA3": {
-   "price": 43.77,
+   "price": 43.93,
    "src": "b3",
    "divMonthly": 0.25,
    "divSrc": "b3"
   },
   "EGIE3": {
-   "price": 26.56,
+   "price": 26.52,
    "src": "b3",
    "divMonthly": 0.0933,
    "divSrc": "b3"
   },
   "ISAE4": {
-   "price": 26.66,
+   "price": 26.69,
    "src": "b3",
    "divMonthly": 0.1137,
    "divSrc": "b3"
@@ -159,139 +159,139 @@
    "divSrc": null
   },
   "EQTL3": {
-   "price": 38.31,
+   "price": 38.5,
    "src": "b3",
    "divMonthly": 0.0111,
    "divSrc": "b3"
   },
   "SBSP3": {
-   "price": 30.15,
+   "price": 29.88,
    "src": "b3",
    "divMonthly": 0.2898,
    "divSrc": "b3"
   },
   "SAPR11": {
-   "price": 35.67,
+   "price": 35.63,
    "src": "b3",
    "divMonthly": 0.0639,
    "divSrc": "b3"
   },
   "CSMG3": {
-   "price": 63.32,
+   "price": 63.04,
    "src": "b3",
    "divMonthly": 0.1661,
    "divSrc": "b3"
   },
   "VIVT3": {
-   "price": 34.93,
+   "price": 35.17,
    "src": "b3",
    "divMonthly": 0.2052,
    "divSrc": "b3"
   },
   "TIMS3": {
-   "price": 22.51,
+   "price": 22.29,
    "src": "b3",
    "divMonthly": 0.1227,
    "divSrc": "b3"
   },
   "CXSE3": {
-   "price": 20.54,
+   "price": 20.6,
    "src": "b3",
    "divMonthly": 0.0567,
    "divSrc": "b3"
   },
   "BBDC4": {
-   "price": 16.06,
+   "price": 16.07,
    "src": "b3",
    "divMonthly": 0.1314,
    "divSrc": "b3"
   },
   "BPAC11": {
-   "price": 60.41,
+   "price": 60.57,
    "src": "b3",
    "divMonthly": 0.1972,
    "divSrc": "b3"
   },
   "ITSA4": {
-   "price": 14.12,
+   "price": 14.08,
    "src": "b3",
    "divMonthly": 0.0934,
    "divSrc": "b3"
   },
   "B3SA3": {
-   "price": 17.23,
+   "price": 17.4,
    "src": "b3",
    "divMonthly": 0.0752,
    "divSrc": "b3"
   },
   "RADL3": {
-   "price": 17.23,
+   "price": 17.1,
    "src": "b3",
    "divMonthly": 0.0378,
    "divSrc": "b3"
   },
   "PETR4": {
-   "price": 42.23,
+   "price": 42.22,
    "src": "b3",
    "divMonthly": 0.3046,
    "divSrc": "b3"
   },
   "VALE3": {
-   "price": 57.18,
+   "price": 57.2,
    "src": "b3",
    "divMonthly": 0.4677,
    "divSrc": "b3"
   },
   "ABEV3": {
-   "price": 16.31,
+   "price": 16.33,
    "src": "b3",
    "divMonthly": 0.1042,
    "divSrc": "statusinvest"
   },
   "KLBN11": {
-   "price": 17.01,
+   "price": 16.85,
    "src": "b3",
    "divMonthly": 0.076,
    "divSrc": "statusinvest"
   },
   "SUZB3": {
-   "price": 53.06,
+   "price": 51.98,
    "src": "b3",
    "divMonthly": 0.0934,
    "divSrc": "b3"
   },
   "RENT3": {
-   "price": 34.02,
+   "price": 34.18,
    "src": "b3",
    "divMonthly": 0.1774,
    "divSrc": "b3"
   },
   "XPLG11": {
-   "price": 91.43,
+   "price": 91.49,
    "src": "b3",
    "divMonthly": 0.82,
    "divSrc": "statusinvest"
   },
   "LVBI11": {
-   "price": 104.69,
+   "price": 104.85,
    "src": "b3",
    "divMonthly": 0.7625,
    "divSrc": "statusinvest"
   },
   "BRCO11": {
-   "price": 107.68,
+   "price": 107.96,
    "src": "b3",
    "divMonthly": 0.92,
    "divSrc": "statusinvest"
   },
   "HGRU11": {
-   "price": 118.0,
+   "price": 118.35,
    "src": "b3",
    "divMonthly": 0.9917,
    "divSrc": "statusinvest"
   },
   "TRXF11": {
-   "price": 56.93,
+   "price": 57.26,
    "src": "b3",
    "divMonthly": 0.9833,
    "divSrc": "statusinvest"
@@ -303,7 +303,7 @@
    "divSrc": "statusinvest"
   },
   "HSML11": {
-   "price": 83.9,
+   "price": 84.56,
    "src": "b3",
    "divMonthly": 0.7258,
    "divSrc": "statusinvest"
@@ -315,19 +315,19 @@
    "divSrc": "statusinvest"
   },
   "HGBS11": {
-   "price": 17.87,
+   "price": 17.9,
    "src": "b3",
    "divMonthly": 0.1658,
    "divSrc": "statusinvest"
   },
   "PVBI11": {
-   "price": 67.66,
+   "price": 68.01,
    "src": "b3",
    "divMonthly": 0.4092,
    "divSrc": "statusinvest"
   },
   "JSRE11": {
-   "price": 59.58,
+   "price": 59.55,
    "src": "b3",
    "divMonthly": 0.4867,
    "divSrc": "statusinvest"
@@ -345,19 +345,19 @@
    "divSrc": "statusinvest"
   },
   "CPTS11": {
-   "price": 6.94,
+   "price": 6.93,
    "src": "b3",
    "divMonthly": 0.09,
    "divSrc": "statusinvest"
   },
   "RECR11": {
-   "price": 69.94,
+   "price": 69.88,
    "src": "b3",
    "divMonthly": 0.89,
    "divSrc": "statusinvest"
   },
   "MCCI11": {
-   "price": 90.49,
+   "price": 90.56,
    "src": "b3",
    "divMonthly": 1.0,
    "divSrc": "statusinvest"
@@ -369,13 +369,13 @@
    "divSrc": "statusinvest"
   },
   "XPCI11": {
-   "price": 76.19,
+   "price": 76.29,
    "src": "b3",
    "divMonthly": 0.8842,
    "divSrc": "statusinvest"
   },
   "VRTA11": {
-   "price": 67.48,
+   "price": 67.26,
    "src": "b3",
    "divMonthly": 0.85,
    "divSrc": "statusinvest"
